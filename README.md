@@ -12,4 +12,4 @@ php
 pyhton 
 java
 
-afandi.
+branch adalah jalur pengembangan independen yang memungkinkan Anda untuk mengerjakan fitur baru, perbaikan bug, atau eksperimen tanpa memengaruhi codebase utama.
